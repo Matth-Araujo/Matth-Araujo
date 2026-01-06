@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Matheus Araújo👋
-- 🌱 Estudando Java.
+
 <h2 align="left">Stats</h2>
 
 ###
